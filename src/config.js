@@ -1,9 +1,9 @@
 
 module.exports = {
-  token: '', // your discord bot token
-  clientId: "1234592539324059709",
+  token: 'MTUxMjM2OTY0MTQ5NjkwNzgyNw.GIR2EK.mPFb-0ECXr_wzJ6gH1mz0x13inWCnCN54LfWTE', // your discord bot token
+  clientId: "1512369641496907827",
   prefix: '!!', // bot prefix
-  ownerID: ['239496212699545601', '759077474922528859', '', '', '' ], //your discord id
+  ownerID: ['1505975476978581644', '', '', '', '' ], //your discord id
   SpotifyID: 'e6f84fbec2b44a77bf35a20c5ffa54b8', // spotify client id
   SpotifySecret: '498f461b962443cfaf9539c610e2ea81', // spotify client secret
   ankushcolor: '#ff0000', // embed colour
